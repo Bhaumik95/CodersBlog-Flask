@@ -1,0 +1,19 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "secret_key": "123asd",
+        "local_uri":"mysql+pymysql://root:root@localhost/TechBlog",
+        "prod_uri":"mysql+pymysql://root:root@localhost/TechBlog",
+        "blog_name":"Coder's Blog",
+        "tag_line":"A blog liked by the programmers",
+        "mail_username":"bhaumikpatel5522@gmail.com",
+        "mail_password":"zmhe evtj qjfm xhdv",
+        "about_text":"Hi, I am Bhaumik Patel, a tech enthusiast, problem solver, and lifelong learner with a passion for exploring how technology shapes our world. Whether it's diving into the latest development frameworks, experimenting with AI tools, or dissecting product design trends, I love turning complex concepts into clear, practical insights.This blog is my space to share tutorials, code snippets, product reviews, and thoughts on emerging tech. My goal is to help others learn, stay updated, and get inspired whether you're just starting out in tech or deep into your own journey.When I am not coding or writing, you will probably find me tinkering with side projects, contributing to open source, or reading up on what is next in the world of innovation.Thanks for stopping by and feel free to reach out or connect!",
+        "no_of_posts": "2",
+        "admin_username":"bhaumikpatel5522@gmail.com",
+        "admin_password":"abc@123",
+        "upload_location":"E:\\Flask\\Projects\\Blog\\static\\assets\\img"
+
+    }
+}
